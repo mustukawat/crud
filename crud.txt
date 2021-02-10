@@ -1,0 +1,10 @@
+
+ A CRUD function-
+
+The things which were used to setup the whole process-
+
+initialized express
+initialized mongoose
+used mongodb compass for the database
+
+used postman to parse the schema 
